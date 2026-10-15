@@ -7,7 +7,6 @@ clojure -M main.clj
 По умолчанию программа прочитает input.edn и создаст output.json. Можно указать другие имена:
 clojure -M main.clj input.edn result.json
 
-
 Пример ожидаемого содержимого JSON-файла:
 [
   {"name":"Alice","age":20,"active":true},
