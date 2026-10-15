@@ -1,0 +1,5 @@
+[
+  {:name "Alice" :age 20 :active true}
+  {:name "Bob" :age 22 :active false}
+  {:name "Clara" :age 19 :active true}
+]
